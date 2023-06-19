@@ -1,2 +1,2 @@
-# Test Project
-## Lorem Ipsum is simply dummy text of the printing and typesetting industry
+# Test Project [15-Jun-2023]
+## this test project description
